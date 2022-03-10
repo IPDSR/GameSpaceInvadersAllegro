@@ -1,0 +1,9 @@
+Escolha o modo de jogo utilizando as teclas 1 ou 2.
+Use as teclas A e D para movimentar o canhão.
+Use a tecla ESPAÇO para atirar.
+Use a tecla ESC para dar pause.
+Faça a melhor pontuação que conseguir!
+Alien Comum = 50 pontos, Alien Especial = 200 pontos
+A cada 5 segundos o valor do alien comum decresce um ponto.
+No modo Multishot, a cada 5 tiros disparados, o valor do alien comum decresce um ponto.
+Para sair do jogo, clique no X na lateral superior direita da tela.
